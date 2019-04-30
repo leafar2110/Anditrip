@@ -1,0 +1,26 @@
+2019-02-14T14:04:52+00:00 CRITICAL Uncaught Error: Class 'PLL_Links_' not found in /home/anditrip/public_html/wp-content/plugins/polylang/include/model.php:562
+Stack trace:
+#0 /home/anditrip/public_html/wp-content/plugins/polylang/include/class-polylang.php(177): PLL_Model->get_links_model()
+#1 /home/anditrip/public_html/wp-includes/class-wp-hook.php(286): Polylang->init('')
+#2 /home/anditrip/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/anditrip/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/anditrip/public_html/wp-settings.php(344): do_action('plugins_loaded')
+#5 /home/anditrip/public_html/wp-config.php(89): require_once('/home/anditrip/...')
+#6 /home/anditrip/public_html/wp-load.php(37): require_once('/home/anditrip/...')
+#7 /home/anditrip/public_html/wp-cron.php(33): require_once('/home/anditrip/...')
+#8 {main}
+  thrown
+
+2019-02-14T14:05:03+00:00 CRITICAL Uncaught Error: Class 'PLL_Links_' not found in /home/anditrip/public_html/wp-content/plugins/polylang/include/model.php:562
+Stack trace:
+#0 /home/anditrip/public_html/wp-content/plugins/polylang/include/class-polylang.php(177): PLL_Model->get_links_model()
+#1 /home/anditrip/public_html/wp-includes/class-wp-hook.php(286): Polylang->init('')
+#2 /home/anditrip/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/anditrip/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/anditrip/public_html/wp-settings.php(344): do_action('plugins_loaded')
+#5 /home/anditrip/public_html/wp-config.php(89): require_once('/home/anditrip/...')
+#6 /home/anditrip/public_html/wp-load.php(37): require_once('/home/anditrip/...')
+#7 /home/anditrip/public_html/wp-login.php(12): require('/home/anditrip/...')
+#8 {main}
+  thrown
+

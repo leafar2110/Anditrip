@@ -1,0 +1,1 @@
+!function(n){n(function(){n("#menu-to-edit").on("change","input.user-restriction-type",function(){var e=n(this);4==e.val()?e.closest("span.user-restriction-container").find("span.roles-container").removeClass("hidden"):e.closest("span.user-restriction-container").find("span.roles-container").addClass("hidden")})})}(jQuery);

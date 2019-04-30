@@ -1,0 +1,12 @@
+07-27-2018 @ 15:28:49 - (error): Payment error: Error creating resource: [message] fopen(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[file] /var/www/html/anditrip/wp-content/plugins/woocommerce-gateway-placetopay/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 323
+[message] fopen(https://test.placetopay.com/redirection/api/session): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[file] /var/www/html/anditrip/wp-content/plugins/woocommerce-gateway-placetopay/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 323 ON /var/www/html/anditrip/wp-content/plugins/woocommerce-gateway-placetopay/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php LINE 65 [GuzzleHttp\Exception\ConnectException]
+07-27-2018 @ 15:30:24 - (error): Payment error: Error creating resource: [message] fopen(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[file] /var/www/html/anditrip/wp-content/plugins/woocommerce-gateway-placetopay/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 323
+[message] fopen(https://test.placetopay.com/redirection/api/session): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+[file] /var/www/html/anditrip/wp-content/plugins/woocommerce-gateway-placetopay/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php
+[line] 323 ON /var/www/html/anditrip/wp-content/plugins/woocommerce-gateway-placetopay/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php LINE 65 [GuzzleHttp\Exception\ConnectException]

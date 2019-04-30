@@ -1,0 +1,16 @@
+2019-01-24T14:11:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_price_html() in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/partials/destinations.php:113
+Stack trace:
+#0 /var/www/html/Anditrip-w/wp-includes/template.php(690): require()
+#1 /var/www/html/Anditrip-w/wp-includes/template.php(647): load_template('/var/www/html/A...', false)
+#2 /var/www/html/Anditrip-w/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /var/www/html/Anditrip-w/wp-content/themes/Anditrip/home.php(7): get_template_part('partials/destin...')
+#4 /var/www/html/Anditrip-w/wp-includes/template-loader.php(74): include('/var/www/html/A...')
+#5 /var/www/html/Anditrip-w/wp-blog-header.php(19): require_once('/var/www/html/A...')
+#6 /var/www/html/Anditrip-w/index.php(17): require('/var/www/html/A...')
+#7 {main}
+  thrown in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/partials/destinations.php on line 113
+
+2019-01-24T17:10:36+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single-product.php on line 261
+
+2019-01-24T23:53:08+00:00 CRITICAL Object of class WP_Error could not be converted to string in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single-product.php on line 106
+

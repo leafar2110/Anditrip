@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){e("#post").submit(function(){return 0<e("#set-post-thumbnail").find("img").size()||(alert("¡No olvides establecer una imagen destacada!"),!1)})});

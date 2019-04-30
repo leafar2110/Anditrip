@@ -1,0 +1,35 @@
+body > div.woo-multi-currency.right.style-1.bottom.wmc-sidebar{display:none}.blog-content{padding:1em}.cards-blog{box-
+shadow:2px 1px 2px #D2D2D1}.card-icon{font-weight:800}.card-
+icon:hover{color:#CA151C;background:#F9F8F5!important;cursor:pointer}.cards-blog:hover{box-shadow:0 5px 5px -3px
+rgba(0,0,0,0.2),0 8px 10px 1px rgba(0,0,0,0.14),0 3px 14px 2px rgba(0,0,0,0.12);-webkit-box-shadow:0 5px 5px -3px
+rgba(0,0,0,0.2),0 8px 10px 1px rgba(0,0,0,0.14),0 3px 14px 2px rgba(0,0,0,0.12);transition:.4s}.cards-blog .card-thumb
+img{width:100%;height:240px;object-fit:cover;object-position:center}.footer-single h3{color:#f5f020;margin-top:2rem
+}.footer-single ul{margin-top:1em}.footer-single p{margin-top:1em}.entry-header h3 a{color:#ca151c!important;font-family
+:sans-serif}.padd h2{color:#ca151c!important;font-family:"Poppins";font-weight:700}.titulo-
+section{color:#ca151c!important;font-family:'Roboto',sans-serif;font-weight:700}.content-blog{float:right;margin-top:24
+%;text-shadow:3px 0 3px #333}.content-blog h1{transition:1s;color:#fff;font-weight:600;font-size:44px;text-shadow:2px
+-2px 9px #000;margin-top:-9rem}.content-blog{float:right;margin-top:24%;text-shadow:3px 0 3px #333}.content-blog
+h1{transition:1s;color:#fff;font-weight:600;font-size:44px;text-shadow:2px -2px 9px #000;margin-top:-9rem}.content-blog
+h1:hover{transition:1s;cursor:pointer}.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-
+tabs>li.active>a:hover{color:#fff!important;cursor:default;background-color:#ca151c!important}.tab-blog{border:1px solid
+#dcdcdc;height:520px}#add-comment ul li{list-style:none}.body-text__content a{color:#ca151c!important;font-
+weight:600}.font--body:hover a{color:#f5f020}.form-control:focus{border-color:#fff;outline:0;-webkit-box-shadow:inset 0
+1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #ca151c}.btn-
+blog{float:left;margin-top:5%;box-shadow:2px 2px 2px #BDBABB;text-shadow:3px 0 3px
+#333;background:#ca151c;transition:1s;color:#fff;font-weight:600;font-size:16px;border:0}.btn-blog:hover{color:#f5f020
+}.nav-tabs >li > a{background-color:#fff;color:gray}
+
+/*html{
+	margin:0;
+}
+body{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 100vh;}
+	
+	footer{
+width: 100vw;
+margin-top: auto;
+	}
+*/

@@ -1,0 +1,623 @@
+.product .title-plans {
+  padding: 2% 0;
+  color: #fff;
+  font-weight: 600;
+  z-index: 2;
+  width: 68%;
+}
+
+.woocommerce table.shop_table{
+       
+        width: 100%;
+        box-shadow: 0px 6px 25px #00000026;
+    transition: all 0.3s ease 0s;
+    border-radius: 5px;
+}
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
+    float: right;
+    width: 50%;
+    margin: 40px 0;
+}
+.woocommerce table.shop_table {
+    padding: 20px;
+    border: none!important;
+}
+/* modal */
+.modal-content, .variations{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.texto-modal p{
+    font-size: 1.5rem;
+}
+.product_meta{
+  display: none!important;
+}
+.woocommerce-variation-add-to-cart-disabled{
+  /* border-top: 1px solid #98989824!important; */
+  padding: 12px 0;
+}
+#pa_hotel-slug .label{
+  margin-bottom: 0!important;
+}
+
+#pa_hotel-slug, #pa_roon-slug{
+  padding: 5px 0px;
+  background: #fff;
+  border: 1px solid #ca151c;
+  border-radius: 3px;
+  color: #000;
+  font-size: 13px;
+  box-shadow: 2px 3px 15px #ffffff42;
+  display: flex;
+  justify-content: center;
+  margin: 10px 10px;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 5px 0px;
+    background: #fff;
+    border: 1px solid #ca151c;
+    border-radius: 3px;
+    color: #000;
+    font-size: 13px;
+    box-shadow: 2px 3px 15px #ffffff42;
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+}
+.value option{
+  background: #fff;
+  color: #000;
+}
+.single_add_to_cart_button 
+{
+  padding: 8px 26px;
+  background: #ca151c;
+  border: 1px solid #ca151c;
+  border-radius: 3px;
+  color: #fbfbfb;
+  font-size: 13px;
+  box-shadow: 2px 3px 15px #ffffff42;
+  text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+    display: inline-flex;
+}
+.single_add_to_cart_button:hover{
+  background: #ffff;
+  border: 1px solid #ca151c;
+  color:  #ca151c;
+}
+.woocommerce-variation-price{
+padding: 20px;
+}
+.woocommerce td.product-name dl.variation p{
+  font-size: 15.5px;
+}
+
+
+.woocommerce-cart-form .product-name a {
+  color: #ca151c;
+  font-weight: 600;
+}
+.wc-proceed-to-checkout{
+  float: right;
+}
+#customer_details .col-12{
+  display: flex;
+  justify-content: center;
+}
+.woocommerce-billing-fields{
+  padding: 30px;
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  background: #ffff;
+}
+ /* .modal-body .woocommerce-Price-amount .price {
+  display: none!important;
+}  */
+.reset_variations, .woocommerce-variation-description{
+  display: none!important;
+}
+.variations{
+  border-top: 1px solid #98989824!important;
+  border-bottom: 1px solid #98989824!important;
+  padding: 20px;
+}
+/* modal */
+.product .info-category p{
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #fff;
+}
+.product .info-category span {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #fff;
+}
+.product .title-plans p {
+  margin-bottom: 0;
+  padding: 5px 15px;
+}
+
+.product .top-product {
+  margin-top: -1.6rem;
+}
+
+.product .buy {
+  background: #fff !important;
+  border: 3px solid #ca151c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+/* .plan-list {
+  margin: 80px 0;
+} */
+
+.product .title-plans h1 {
+  margin-bottom: 10%;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-shadow: 0px 4px 7px #080808a8;
+  font-size: 4rem;
+  margin-left: 60px;
+  /* width: 75%; */
+}
+
+
+.title-plans .fa-calendar-alt {
+  padding-right: 10px;
+}
+
+.plan-list .grid-plan {
+  position: relative;
+  margin: 0 auto;
+  /* padding: 1em 0 4em; */
+  max-width: 1000px;
+  list-style: none;
+  text-align: center;
+}
+
+/* Common style */
+.plan-list .grid-plan figure {
+  position: relative;
+  float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 390px;
+  max-width: 480px;
+  max-height: 360px;
+  width: 48%;
+  background: #3085a3;
+  text-align: center;
+  cursor: pointer;
+  height: 150px;
+}
+
+.plan-list .grid-plan figure img {
+  position: relative;
+  display: block;
+  min-height: 100%;
+  max-width: 100%;
+  opacity: 0.8;
+}
+
+.plan-list .grid-plan figure figcaption {
+  padding: 2em;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.plan-list .grid-plan figure figcaption::before,
+.grid-plan figure figcaption::after {
+  pointer-events: none;
+}
+
+.plan-list .grid-plan figure figcaption,
+.grid-plan figure figcaption>a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Anchor will cover the whole item by default */
+/* For some effects it will show as a button */
+.plan-list .grid-plan figure figcaption>a {
+  z-index: 1000;
+  text-indent: 200%;
+  white-space: nowrap;
+  font-size: 0;
+  opacity: 0;
+}
+
+.plan-list .grid-plan figure h2 {
+  word-spacing: -0.15em;
+  font-weight: 300;
+}
+
+.plan-list .grid-plan figure h2 span {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.plan-list .grid-plan figure h2,
+.grid-plan figure p {
+  margin: 0;
+}
+
+.plan-list .grid-plan figure p {
+  letter-spacing: 1px;
+  font-size: 68.5%;
+}
+
+.plan-list figure.effect-oscar {
+  background: linear-gradient(45deg, #ca151c 0%, #ca151c 40%, #ca151c 100%);
+  background: -webkit-linear-gradient(45deg, #ca151c 0%, #ca151c 40%, #ca151c 100%);
+}
+
+.plan-list figure.effect-oscar img {
+  opacity: 0.9;
+  -webkit-transition: opacity 0.35s;
+  transition: opacity 0.35s;
+}
+
+.plan-list figure.effect-oscar figcaption {
+  padding: 3em;
+  background-color: rgba(202, 21, 28, 0.23);
+  -webkit-transition: background-color 0.35s;
+  transition: background-color 0.35s;
+}
+
+.plan-list figure.effect-oscar figcaption::before {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  bottom: 30px;
+  left: 30px;
+  border: 1px solid #fff;
+  content: '';
+}
+
+/* .plan-list figure.effect-oscar h2 {
+  margin: 20% 0 10px 0;
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: transform 0.35s;
+  -webkit-transform: translate3d(0, 100%, 0);
+  transform: translate3d(0, 100%, 0);
+  } */
+
+  .plan-list figure.effect-oscar figcaption::before,
+  figure.effect-oscar p {
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+
+  .plan-list figure.effect-oscar:hover h2 {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  .plan-list figure.effect-oscar:hover figcaption::before,
+  figure.effect-oscar:hover p {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  .plan-list figure.effect-oscar:hover figcaption {
+    background-color: rgba(58, 52, 42, 0);
+  }
+
+  .plan-list figure.effect-oscar:hover img {
+    opacity: 0.4;
+  }
+
+
+/* tabs product */
+main {
+  background: #FFF;
+  padding: 10px 15px 80px;
+  margin-left: 2rem;
+  /* box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
+}
+
+
+.tabs-plan input {
+  clear: both;
+  padding-top: 10px;
+  display: none;
+}
+
+.tabs-plan section {
+  clear: both;
+  padding-top: 10px;
+  display: none;
+}
+
+.tabs-plan p {
+  color: #1f1e1e;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.tabs-plan label {
+  font-weight: bold;
+  font-size: 14px;
+  /* display: block;
+  float: left; */
+  padding: 10px 12px;
+  border-top: 2px solid transparent;
+  border-right: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-bottom: 1px solid #DDD;
+}
+
+.tabs-plan label:hover {
+  cursor: pointer;
+
+}
+.tabs-plan p:hover{
+text-decoration: underline;
+text-underline-position: under;
+}
+
+#tab1:checked~#content1,
+#tab2:checked~#content2,
+#tab3:checked~#content3,
+#tab4:checked~#content4 {
+  display: block;
+      padding: 0 25px;
+}
+
+.tabs-plan input:checked+label {
+  border-top-color: #ca151c;
+  border-top: 3px solid #ca151c;
+  border-right-color: #DDD;
+  border-left-color: #DDD;
+  border-bottom-color: transparent;
+  text-decoration: none;
+}
+
+.select-plans {
+  text-align: center;
+  box-shadow: 0px 4px 5px #08080861;
+  width: 94%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+  color: #fff;
+}
+
+.mask-select {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background: #000000c7;
+  /* z-index: 2; */
+  width: 100%;
+}
+.fa-plane-departure:before {
+  content: "\f5b0";
+  font-size: 1.3rem;
+}
+.tabs-plan i {
+  color: #ca151c;
+  margin: 0 15px!important;
+}
+#content1 ul{
+  margin: 0 80px;
+}
+.tabs-plan li {
+  padding: 0 50px;
+  font-size: 15px;
+  /*display: flex;*/
+}
+.tabs-plan b, strong {
+    font-weight: bolder;
+    font-weight: 600!important;
+}
+.title-contenedor {
+  z-index: 3;
+}
+
+.plan {
+  width: 100%;
+  object-fit: cover;
+  height: 70vh;
+  background-size: cover!important;
+    background-position: center;
+    background-repeat: no-repeat!important;
+}
+
+
+.mask-plan {
+  position: absolute;
+  width: 100%;
+  height: 70vh;
+  /* background: #00000047; */
+  z-index: 1;
+  /* box-shadow: 0 4px 14px #04040452; */
+}
+
+.title-contenedor h3 {
+  color: #fff;
+  font-size: 25px;
+  margin-bottom: 25px;
+  font-weight: 600;
+
+}
+.btn:not(:disabled):not(.disabled) {
+  z-index: 9!important;
+}
+#js_signup button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:focus, input[type="button"]:focus, input[type="reset"]:focus {
+  background: #fff;
+  color: #ca151c;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  text-align: left;
+}
+.input-text {
+  color: #000!important;
+}
+.woocommerce .col2-set, .woocommerce-page .col2-set {
+  margin: 0 0 50px!important
+}
+.btn-plan  {
+  padding: 10px 20px;
+  background: #ca151c;
+  border: 1px solid #ca151c;
+  border-radius: 3px;
+  color: #fff;
+  /* text-shadow: 0px 1px 3px #0c0c0cb8; */
+  text-transform: uppercase;
+  font-size: 15px;
+  box-shadow: 2px 3px 15px #ffffff42;
+  font-weight: 600;
+}
+
+.btn-plan:hover {
+  background: #fff!important;
+  color: #ca151c!important;
+  border: 1px solid #ca151c!important;
+
+}
+
+.select-plan {
+  margin-top: -56px;
+  display: flex;
+  justify-content: center;
+  width: 35%;
+  transition: all 0.15s ease;
+  cursor: pointer;
+  background: #ffff;
+  padding: 35px;
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.3), 0 8px 16px -8px rgba(0, 0, 0, 0.3);
+
+}
+.select-plan:hover {
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.3), 0 8px 16px -8px rgba(0, 0, 0, 0.3);
+
+
+}
+
+.tabs-plan h3 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.woocommerce #content table.cart img, .woocommerce table.cart img, .woocommerce-page #content table.cart img, .woocommerce-page table.cart img {
+    height: 100px!important;
+    width: 250px!important;
+    object-fit: cover!important;
+}
+.woocommerce #content table.cart td.actions .input-text, .woocommerce table.cart td.actions .input-text, .woocommerce-page #content table.cart td.actions .input-text, .woocommerce-page table.cart td.actions .input-text {
+    display: none;
+}
+
+.woocommerce .cart .button, .woocommerce .cart input.button {
+    margin: 20px;
+}
+/* ******************************** */
+
+
+/* .zoom-effect-container {
+  float: left;
+  position: relative;
+  width: 640px;
+  height: 360px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.image-card img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+.zoom-effect-container:hover .image-card img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+} */
+
+
+
+
+.tab-wrapper {
+width: 100%;
+    padding: 0 20px;
+}
+.tab-content{
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+    margin: -2.4% 0;
+}
+
+.tab-menu li {
+  position:relative;
+  background-color: #fff;
+  color:#bcbcbc;
+  display: inline-block;
+   padding: 12px 25px;
+  opacity: 0.8;
+  cursor:pointer;
+  z-index:0;
+}
+
+.tab-menu li:hover {
+  color:#464646;
+}
+
+.tab-menu li.active {
+  color:#464646;
+  opacity: 1;
+    border: 1px solid #0000000a;
+}
+.tab-menu{
+  border-bottom: 1px solid #00000017;
+
+}
+
+.tab-menu li.active:hover {
+  color:#464646;
+}
+
+.tab-content>div {
+  background-color: #fff;
+  box-sizing:border-box;
+  width: 100%;
+  padding: 50px;   
+  min-height:200px;
+}
+
+.line {
+  position:absolute;
+  width: 0;
+  height: 7px;
+  background-color: #ca151c;
+  top: 0;
+  left: 0;
+}
+
+.woo-multi-currency.wmc-sidebar.wmc-right {
+    display: none!important;
+}
+#sidebar{
+     display: none!important;
+}

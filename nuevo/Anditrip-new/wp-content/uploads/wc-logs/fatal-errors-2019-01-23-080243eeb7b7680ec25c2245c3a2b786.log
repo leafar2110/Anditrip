@@ -1,0 +1,40 @@
+2019-01-23T00:06:55+00:00 CRITICAL Uncaught Error: Call to undefined function echo_e() in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php:20
+Stack trace:
+#0 /var/www/html/Anditrip-w/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/Anditrip-w/wp-blog-header.php(19): require_once('/var/www/html/A...')
+#2 /var/www/html/Anditrip-w/index.php(17): require('/var/www/html/A...')
+#3 {main}
+  thrown in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php on line 20
+
+2019-01-23T00:06:56+00:00 CRITICAL Uncaught Error: Call to undefined function echo_e() in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php:20
+Stack trace:
+#0 /var/www/html/Anditrip-w/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/Anditrip-w/wp-blog-header.php(19): require_once('/var/www/html/A...')
+#2 /var/www/html/Anditrip-w/index.php(17): require('/var/www/html/A...')
+#3 {main}
+  thrown in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php on line 20
+
+2019-01-23T00:07:01+00:00 CRITICAL Uncaught Error: Call to undefined function echo_e() in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php:20
+Stack trace:
+#0 /var/www/html/Anditrip-w/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/Anditrip-w/wp-blog-header.php(19): require_once('/var/www/html/A...')
+#2 /var/www/html/Anditrip-w/index.php(17): require('/var/www/html/A...')
+#3 {main}
+  thrown in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php on line 20
+
+2019-01-23T00:07:19+00:00 CRITICAL Uncaught Error: Call to undefined function echo_e() in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php:20
+Stack trace:
+#0 /var/www/html/Anditrip-w/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/Anditrip-w/wp-blog-header.php(19): require_once('/var/www/html/A...')
+#2 /var/www/html/Anditrip-w/index.php(17): require('/var/www/html/A...')
+#3 {main}
+  thrown in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php on line 20
+
+2019-01-23T00:07:20+00:00 CRITICAL Uncaught Error: Call to undefined function echo_e() in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php:20
+Stack trace:
+#0 /var/www/html/Anditrip-w/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/Anditrip-w/wp-blog-header.php(19): require_once('/var/www/html/A...')
+#2 /var/www/html/Anditrip-w/index.php(17): require('/var/www/html/A...')
+#3 {main}
+  thrown in /var/www/html/Anditrip-w/wp-content/themes/Anditrip/single.php on line 20
+

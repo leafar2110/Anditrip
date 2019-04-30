@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Anditrip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-06 19:28+0000\n"
+"PO-Revision-Date: 2019-02-06 19:34+0000\n"
+"Last-Translator: root <yively.pa@gmail.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: header.php:70 header.php:136 header.php:143
+msgid "Home"
+msgstr "家"
+
+#: header.php:72 header.php:82 header.php:137 header.php:144
+msgid "Destinations and plans"
+msgstr "目的地和計劃"
+
+#: header.php:73 header.php:83 header.php:138 header.php:145
+msgid "Colombia"
+msgstr ""
+"\n"
+"哥倫比亞"
+
+#: header.php:75 header.php:85 header.php:139 header.php:146 page-blog.php:5
+#: partials/blog.php:3
+msgid "Blog"
+msgstr "博客"
+
+#: header.php:80
+msgid "home"
+msgstr ""
+
+#: page-blog.php:31 partials/blog.php:29
+msgid "Read More"
+msgstr "閱讀更多"
+
+#: single.php:24
+msgid "Related posts"
+msgstr ""
+"\n"
+"相關文章"
+
+#: footer.php:11 footer.php:130
+msgid "About Us"
+msgstr "關於我們"
+
+#: footer.php:12
+msgid ""
+"Anditrip is a latinamerican travel agency with a professional experience in "
+"destinations such as Colombia, Perú, Ecuador, Panamá and Mexico.."
+msgstr ""
+"Anditrip 是一家拉丁美洲旅行社，在哥倫比亞，秘魯，厄瓜多爾，巴拿馬和墨西哥等地擁有專業經驗。\n"
+
+#: footer.php:15
+msgid "Quick Contact"
+msgstr "快速聯繫"
+
+#: footer.php:20 footer.php:150
+msgid "The Most Wanted"
+msgstr "最想要的"
+
+#: footer.php:42
+msgid "Payment Methods"
+msgstr "支付方式"
+
+#: footer.php:139
+msgid ""
+" Anditrip is a latinamerican travel agency with a professional experience in "
+"destinations such as Colombia, Perú, Ecuador, Panamá and Mexico.."
+msgstr "Anditrip 是一家拉丁美洲旅行社，在哥倫比亞，秘魯，厄瓜多爾，巴拿馬和墨西哥等地擁有專業經驗。"
+
+#: footer.php:183
+msgid " Payment Methods"
+msgstr "支付方式"
+
+#: woocommerce/content-single-product.php:81
+msgid "Buy this plan"
+msgstr "買這個計劃"
+
+#: woocommerce/content-single-product.php:135
+msgid "Included"
+msgstr ""
+"\n"
+"包括"
+
+#: woocommerce/content-single-product.php:141
+msgid "No Included"
+msgstr "不包括在內"
+
+#: woocommerce/content-single-product.php:150
+msgid "Itinerary Provided"
+msgstr "行程提供"
+
+#: woocommerce/content-single-product.php:157
+msgid "Important"
+msgstr "重要"
+
+#: woocommerce/content-single-product.php:165
+msgid "Price"
+msgstr "價錢"
+
+#: woocommerce/content-single-product.php:174
+msgid "Domestic flight tickets in economic class"
+msgstr "經濟艙國內機票"
+
+#: woocommerce/content-single-product.php:180
+msgid "Food"
+msgstr "餐飲"
+
+#: woocommerce/content-single-product.php:186
+msgid "Tours"
+msgstr "旅遊"
+
+#: woocommerce/content-single-product.php:212
+msgid "Here Are Many Words"
+msgstr "這裡有很多單詞"
+
+#: woocommerce/content-single-product.php:462
+msgid "You Already Have a Plan In The Cart"
+msgstr "你已經在購物車中有計劃了"
+
+#: woocommerce/content-single-product.php:463
+msgid "SEE CART"
+msgstr "看看購物車"
+
+#: partials/banner.php:27
+msgid "See more"
+msgstr "看更多"
+
+#: partials/colombias.php:3
+msgid "Why Colombia?"
+msgstr "哥倫比亞？"
+
+#: partials/colombias.php:27
+msgid "View more"
+msgstr "查看更多"
+
+#: partials/destinations.php:8
+msgid "Destinations"
+msgstr "目的地"
+
+#: partials/destinations.php:11
+msgid "Explore and select to see our plans."
+msgstr "探索並選擇查看我們的計劃"
+
+#: partials/destinations.php:88
+msgid "Plans"
+msgstr "計劃"
+
+#: partials/destinations.php:92
+msgid "Explore and select to see our plans"
+msgstr "探索並選擇查看我們的計劃"
+
+#: partials/destinations.php:92
+msgid "All available Plans"
+msgstr "所有可用的計劃"
+
+#: partials/destinations.php:178
+msgid "See More"
+msgstr "看更多"
+
+#. Name of the theme
+msgid "Anditrip"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Desarrollado por: Renny Petit, Franciso Aular, Yonnys Quintero y Yively "
+"Alvarez;"
+msgstr ""
+
+#. URI of the theme
+msgid "https://anditrip.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Slice Group"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://slicegroup.xyz"
+msgstr ""

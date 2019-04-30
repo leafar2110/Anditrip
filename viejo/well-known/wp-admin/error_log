@@ -1,0 +1,14 @@
+[08-Aug-2018 13:22:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=706257 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 13:22:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=706944 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 13:23:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=707171 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 13:24:00 UTC] PHP Warning:  Error while sending QUERY packet. PID=706944 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:29:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=710881 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:30:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=713519 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:30:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=712498 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:30:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=713414 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:30:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=711410 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:32:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=713519 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:32:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=713414 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:32:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=712498 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:32:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=711410 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2018 14:33:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=710227 in /home/anditrip/public_html/wp-includes/wp-db.php on line 1924
